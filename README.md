@@ -6,4 +6,5 @@ idxmax = https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataF
 04-3: Pandas_Data-Preparation-1 Activity 1-5
 05-1: Pandas_Data-Preparation-2 Activity 5-8
 05-2: Pandas-Data-Preparation-2 Activity 1-3 
+Mimo
 Previous Python Class Experience
